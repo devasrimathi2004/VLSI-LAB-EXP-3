@@ -30,14 +30,34 @@ STEP:11  On the board, by giving required input, the LEDs starts to glow light, 
 
 
 **Verilog code**
-<<<< type your Verilog code here >>>>>>>
 
-**Output Waveform**
+3_MULTIPLIER_2BIT:
+~~~
+module ha(a,b,sum,carry);
+input a,b;
+output sum,carry;
 
-<<< Simulation output waveform paste it here >>>>>
+endmodule
+
+module multi_2(a,b,p,carry);
+input [1:0]a,b;
+output [2:0]p;
+output carry;
+
+endmodule
+~~~
+
+OUTPUT:
 
 
-**Result**
+
+
+
+
+
+3_MULTIPLIER_4BIT:
+
+
 
 
 
