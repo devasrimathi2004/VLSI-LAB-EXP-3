@@ -68,6 +68,7 @@ OUTPUT:
 
 
 
+
 MULTIPLIER_4BIT:
 ~~~
 module ha(a,b,c,s);
