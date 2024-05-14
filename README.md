@@ -1,12 +1,13 @@
-SIMULATION AND IMPLEMENTATION OF MULTIPLIER
-**AIM: **
- To simulate and synthesis multiplier using Xilinx ISE.
+LAB_EXPERIMENT-3
 
-**APPARATUS REQUIRED:**
-Xilinx 14.7
-Spartan6 FPGA
-  
-**PROCEDURE:**
+SIMULATION AND IMPLEMENTATION OF MULTIPLIER
+
+AIM: To simulate and synthesis multiplier using Vivadi 2023.1
+
+APPARATUS REQUIRED: vivado 2023.1
+
+
+PROCEDURE:
 STEP:1  Start  the Xilinx navigator, Select and Name the New project.
 STEP:2  Select the device family, device, package and speed.       
 STEP:3  Select new source in the New Project and select Verilog Module as the Source type.                       
@@ -19,7 +20,7 @@ STEP:9  In the Design Object List Window, enter the pin location for each pin in
 STEP:10 Double click on the Implement Design and double click on the Generate Programming File to create a bitstream of the design.(.v) file is converted into .bit file here.
 STEP:11  On the board, by giving required input, the LEDs starts to glow light, indicating the output.
 
-**Logic Diagram**
+Logic Diagram
 2 bit Multiplier
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/7713750f-65e6-41c0-8082-5005eac4031c)
