@@ -65,6 +65,7 @@ endmodule
 OUTPUT:
 
 ![image](https://github.com/devasrimathi2004/VLSI-LAB-EXP-3/assets/166363441/98c993a9-5421-4e23-9256-997e180072cf)
+![image](https://github.com/devasrimathi2004/VLSI-LAB-EXP-3/assets/166363441/9fe179e8-c182-4580-9865-31d87cb0ca7b)
 
 
 
